@@ -4,3 +4,4 @@ There are mutltiple mod that you can use, such as -t 1, -t 2, -t 3, -w, -h, -m, 
 One thing you need to know is that if you tap a different mode than those previously told, the programm will end and told you a message of error. 
 You need to use -f with the name of the file you want to filter if you want the programm to run.
 To run the code, simply verify that you have the rights to execute it using "chmod -u+x ProjetCYMeteo.sh" and once this is done just tap in your terminal "./ProjetCYMeteo.sh" with the mod that you want. For example you can tap "./ProjetCYMeteo.sh -f a.csv -G -t 1 -m".
+Just so you know, some parts of the code may be like the other group, it is only because we find them on the internet, like the code for the graphs or the verification that the user write the right argument.
